@@ -24,6 +24,8 @@ This project explores image-to-image translation using **Conditional Generative 
 
 ## 🖼️ Sample Output
 
+The Images below are the personal Images which we tested with our trained model, the first raw are the gray-scale Images, the second are the generated ones, and the lst raw are the original pictures  
+
 <img width="631" height="362" alt="image" src="https://github.com/user-attachments/assets/532eca0f-4b14-4b3f-8554-102fa796ddb7" />
 
 
