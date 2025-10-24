@@ -24,7 +24,8 @@ This project explores image-to-image translation using **Conditional Generative 
 
 ## 🖼️ Sample Output
 
-> (📸 You can add a screenshot of generated vs. ground truth images here!)
+<img width="631" height="362" alt="image" src="https://github.com/user-attachments/assets/532eca0f-4b14-4b3f-8554-102fa796ddb7" />
+
 
 ## 🔍 Why This Matters
 
