@@ -38,6 +38,8 @@ This project also serves as a hands-on example of working with **generative mode
 ## 📌 Author
 
 [Roya Joulaei Vijouyeh](https://github.com/RoyaJV97)
+[Mojtaba Roshana](https://github.com/mojee13)
+[Asal Rangrazi]
 
 ---
 
